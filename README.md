@@ -22,4 +22,4 @@ Global Classroom is a tool designed for educators to easily translate educationa
 
    ```bash
    git clone https://github.com/GustavoGuzman-alt/GlobalClassroom.git
-   cd GlobalClassroom
+   cd global_classroom
