@@ -1,0 +1,72 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.tmp
+*.swp
+*.swo
+*.swn
+
+# Virtual environment
+venv/
+env/
+*.venv
+
+# Jupyter notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore Python package distributions
+*.whl
+*.tar.gz
+*.zip
+
+# Ignore temporary and backup files
+*.bak
+*.~ 
+*~
+
+# Ignore generated subtitles and media files
+*.srt
+*.mp3
+*.wav
+*.avi
+*.flv
+*.mov
+*.mp4
+*.mkv
+
+# Ignore temporary FFMPEG output
+ffmpeg_output/
+*.log
+
+# Ignore PyInstaller or build artifacts
+*.spec
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore secrets (if applicable)
+secrets.json
+config.json
+
+# Ignore any additional temp or debugging files
+temp/
+debug.log
