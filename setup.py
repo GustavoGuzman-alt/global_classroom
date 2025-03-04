@@ -6,7 +6,7 @@ setup(
     description="A tool to translate educational videos and documents into multiple languages.",
     author="Gustavo Guzman",
     author_email="gustavo.guzman88@gmail.com.com",
-    url="https://github.com/gustavoguzman88/GlobalClassroom",  # Update with your repo URL
+    url="https://github.com/GustavoGuzman-alt/GlobalClassroom",  # Update with your repo URL
     packages=find_packages(),
     install_requires=[
         "whisper>=1.2.0",

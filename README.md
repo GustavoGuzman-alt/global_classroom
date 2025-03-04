@@ -21,5 +21,5 @@ Global Classroom is a tool designed for educators to easily translate educationa
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/GlobalClassroom.git
+   git clone https://github.com/GustavoGuzman-alt/GlobalClassroom.git
    cd GlobalClassroom
